@@ -1,0 +1,11 @@
+.Navbar{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+    background-color: rgba(87, 176, 244, 0.718);
+}
+
+.logo-title{
+    color: white;
+}
